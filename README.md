@@ -92,5 +92,4 @@ python main.py
 
 ## 💥 Jump In!  
 **Play with it, love it, hit me up with ideas!**  
-Let’s make math fun—happy calculating! 🧮✨  
-```
+Let’s make math fun—happy calculating! 🧮✨ 
