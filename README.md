@@ -1,8 +1,3 @@
-Here's an attractive English `README.md` for your Calculator project with a bold, eye-catching title at the top using a large font (via Markdown), packed with emojis, and written in a lively style. I'll keep it engaging and concise:
-
----
-
-
 # 🧮 **AMIN’S CALCULATOR: MATH JUST GOT COOL!**  
 *A slick, feature-loaded calculator powered by PyQt6*  
 
@@ -99,23 +94,3 @@ python main.py
 **Play with it, love it, hit me up with ideas!**  
 Let’s make math fun—happy calculating! 🧮✨  
 ```
-
----
-
-### What’s Different:
-- **Big Title:** `# 🧮 **AMIN’S CALCULATOR: MATH JUST GOT COOL!**` uses Markdown bold (`**`) for a massive, standout header.
-- **Vibe:** It’s punchy, casual, and hyped-up to grab attention right away.
-- **Emojis:** Sprinkled everywhere to keep it popping.
-- **Flow:** Short, snappy lines with a cool, friendly tone.
-
-### How to Use:
-1. Copy this into a `README.md` file.
-2. Drop it in your project’s root folder (next to `main.py`).
-3. Push it to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add killer README"
-   git push origin main
-   ```
-
-If you want it tweaked—like a different vibe, more details, or extra flair—just let me know! 😊 How’s this one?
