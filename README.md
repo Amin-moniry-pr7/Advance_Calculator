@@ -2,7 +2,7 @@ Here's an attractive English `README.md` for your Calculator project with a bold
 
 ---
 
-```markdown
+
 # 🧮 **AMIN’S CALCULATOR: MATH JUST GOT COOL!**  
 *A slick, feature-loaded calculator powered by PyQt6*  
 
@@ -28,7 +28,7 @@ Hey there! I’m *Amin Moniry*, and I built this bad boy with **PyQt6** and **Py
 ---
 
 ## 🏗 How It’s Put Together  
-```
+
 Calculator/
 │── 📁 modules/         # The Magic Happens Here  
 │   ├── 🎨 ui_elements.py        # Sexy UI  
