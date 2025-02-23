@@ -1,0 +1,63 @@
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+env/
+*.venv
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs & Cache
+logs/
+*.log
+*.sqlite3
+*.db
+*.json
+*.csv
+
+# Compiled files
+*.so
+*.dll
+*.exe
+*.o
+*.a
+
+# PyQt6 UI Compiled Files
+*.ui~
+*.qrc~
+*.qrc.py
+*.ui.py
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Environment Variables
+.env
+*.secret
+
+# Build & Dist Files
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Ignore large media files (optional)
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.tar.gz
+
+# Ignore custom application data
+cache/
+temp/
